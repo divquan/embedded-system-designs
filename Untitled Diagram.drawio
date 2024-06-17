@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T15:34:43.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GK1bF2elShRZElEbRzUG" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T14:48:07.336Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0zBOsDYF2SpGhwjKE9Uj" version="24.5.4" type="github">
   <diagram name="Page-1" id="HmCTH_xumnkvm2xqdz3c">
-    <mxGraphModel dx="1545" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2AzNryiKhpfMSMHm5jb-12" target="b2AzNryiKhpfMSMHm5jb-17">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b2AzNryiKhpfMSMHm5jb-12" target="b2AzNryiKhpfMSMHm5jb-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Microcontrollers&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Sensor&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Power Source&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;GPIO&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Display&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Connector&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Microcontrollers&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Sensor&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Power Source&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;GPIO&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Display&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Connector&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="-110" y="380" width="330" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2AzNryiKhpfMSMHm5jb-14" target="b2AzNryiKhpfMSMHm5jb-12">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b2AzNryiKhpfMSMHm5jb-14" target="b2AzNryiKhpfMSMHm5jb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-14" value="&lt;b&gt;BRAIN STORMING&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-14" value="&lt;b&gt;BRAIN STORMING&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-5" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Microcontrollers --&amp;nbsp;&amp;nbsp;STM32C011D6Yx&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Sensor-&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Power Source&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;GPIO&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Switch&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Display&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Connector&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" vertex="1" parent="1">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Microcontrollers --&amp;nbsp;&amp;nbsp;STM32C011D6Yx&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Sensor - photo diode&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Power Source -- AC and battery (&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 10pt; font-family: Arial;&quot;&gt;2.0 V to 3.6 V&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: medium;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;GPIO --?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Switch -- ?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Display -- LCD&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Connector --?&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;align=left;" parent="1" vertex="1">
           <mxGeometry x="300" y="380" width="330" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b2AzNryiKhpfMSMHm5jb-19" target="b2AzNryiKhpfMSMHm5jb-17">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b2AzNryiKhpfMSMHm5jb-19" target="b2AzNryiKhpfMSMHm5jb-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b2AzNryiKhpfMSMHm5jb-19" value="&lt;b&gt;BRAIN STORMING&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="b2AzNryiKhpfMSMHm5jb-19" value="&lt;b&gt;BRAIN STORMING&lt;/b&gt;&lt;div&gt;&lt;b&gt;Specifications&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="405" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
