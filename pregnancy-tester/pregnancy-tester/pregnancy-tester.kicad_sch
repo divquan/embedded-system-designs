@@ -1,0 +1,331 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "a89a2812-b97b-4b75-933b-88039f33a028")
+	(paper "A3")
+	(title_block
+		(title "Pregnancy Testor")
+		(date "2024-06-17")
+		(rev "v.1.0.0")
+		(company "Group ")
+	)
+	(lib_symbols)
+	(sheet
+		(at 137.16 22.86)
+		(size 114.3 76.2)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b1572b9-4a0f-45ce-a0e0-54b5faa1c345")
+		(property "Sheetname" "MCU"
+			(at 137.16 20.8784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 137.16 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 111.76)
+		(size 99.06 91.44)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "16328648-807e-4de2-b970-bd33e862274e")
+		(property "Sheetname" "LDO"
+			(at 111.76 109.7784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ldo.kicad_sch"
+			(at 111.76 203.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 276.86 27.94)
+		(size 129.54 68.58)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2c9bbbb5-d079-4efc-8b04-1d96b2fde7ad")
+		(property "Sheetname" "Photo Diode"
+			(at 276.86 25.9584 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "photo_diode.kicad_sch"
+			(at 276.86 97.1046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 213.36)
+		(size 101.6 68.58)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41fa055d-721c-4683-ac0c-650b51ae494a")
+		(property "Sheetname" "LCD_Module"
+			(at 15.24 211.3784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd_module.kicad_sch"
+			(at 15.24 282.5246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 322.58 111.76)
+		(size 83.82 91.44)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "97d527ff-5f88-4bb6-a01f-e10ff17dc284")
+		(property "Sheetname" "Mounting_Holes"
+			(at 322.58 109.7784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mounting_hole.kicad_sch"
+			(at 322.58 203.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 22.86)
+		(size 113.03 77.47)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9e32ccd-8bd8-483e-b26a-b72b281c8948")
+		(property "Sheetname" "Power and Programming Interface"
+			(at 20.32 20.8784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_and_programming_interface.kicad_sch"
+			(at 20.32 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 215.9 111.76)
+		(size 104.14 91.44)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d2e18864-7ea7-4078-9703-961bab6b060a")
+		(property "Sheetname" "User_IO"
+			(at 215.9 109.7784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "userio.kicad_sch"
+			(at 215.9 203.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 111.76)
+		(size 91.44 91.44)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dbed5c16-ca3f-4a2b-87fa-58413d6684d2")
+		(property "Sheetname" "RELAY"
+			(at 15.24 109.7784 0)
+			(effects
+				(font
+					(size 3.81 3.81)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "relay.kicad_sch"
+			(at 15.24 203.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pregnancy-tester"
+				(path "/a89a2812-b97b-4b75-933b-88039f33a028"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
